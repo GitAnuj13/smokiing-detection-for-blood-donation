@@ -2,3 +2,4 @@ scikit-learn==1.1.2
 pandas
 numpy
 streamlit
+pickle
